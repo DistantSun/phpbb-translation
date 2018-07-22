@@ -571,7 +571,7 @@ $lang = array_merge($lang, array(
 	'LOG_CONFIG_COOKIE'			=> '<strong>Cookie-Einstellungen geändert</strong>',
 	'LOG_CONFIG_EMAIL'			=> '<strong>E-Mail-Einstellungen geändert</strong>',
 	'LOG_CONFIG_FEATURES'		=> '<strong>Board-Funktionalitäten geändert</strong>',
-	'LOG_CONFIG_LOAD'			=> '<strong>Last-Einstellungen geändert</strong>',
+	'LOG_CONFIG_LOAD'			=> '<strong>Serverlast-Einstellungen geändert</strong>',
 	'LOG_CONFIG_MESSAGE'		=> '<strong>Private Nachrichten-Einstellungen geändert</strong>',
 	'LOG_CONFIG_POST'			=> '<strong>Beitrags-Einstellungen geändert</strong>',
 	'LOG_CONFIG_REGISTRATION'	=> '<strong>Registrierungs-Einstellungen geändert</strong>',
@@ -647,7 +647,7 @@ $lang = array_merge($lang, array(
 	'LOG_FORUM_MOVE_UP'						=> '<strong>Forum verschoben</strong> %1$s <strong>über</strong> %2$s',
 	'LOG_FORUM_SYNC'						=> '<strong>Forum resynchronisiert</strong><br />» %s',
 
-	'LOG_GENERAL_ERROR'	=> '<strong>Ein allgemeiner Fehler ist aufgetreten</strong>: %1$s <br />» %2$s',
+	'LOG_GENERAL_ERROR'	=> '<strong>Ein allgemeiner Fehler ist aufgetreten</strong>: %1$s<br />» %2$s',
 
 	'LOG_GROUP_CREATED'		=> '<strong>Benutzergruppe erstellt</strong><br />» %s',
 	'LOG_GROUP_DEFAULTS'	=> '<strong>Gruppe „%1$s“ als Standardgruppe für Mitglieder gesetzt</strong><br />» %2$s',
